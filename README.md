@@ -27,8 +27,4 @@ python calculadora_def.py
 
 Contribuições são bem-vindas! Se você encontrar problemas ou tiver sugestões para melhorias, sinta-se à vontade para abrir uma issue neste repositório. Caso queira contribuir com código, por favor, abra um pull request para revisão.
 
-## Agradecimentos
-
-Agradecemos a todos que contribuíram e a todos que apoiam este projeto.
-
 **Divirta-se com sua calculadora e aproveite as vantagens do Python!** 🤗
