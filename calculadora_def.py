@@ -1,4 +1,4 @@
-# exercício final
+# Calculadora utilizando definição de funções
 
 def soma(a, b):
     op = a + b
