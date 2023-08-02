@@ -12,10 +12,10 @@ Este repositório contém um simples programa em Python que realiza operações 
 1. Certifique-se de ter o Python instalado em seu sistema.
 2. Clone este repositório para o seu ambiente local.
 3. Navegue até o diretório do projeto.
-4. Execute o arquivo "exercicio_final.py" com o seguinte comando:
+4. Execute o arquivo "calculadora_def.py" com o seguinte comando:
 
 ```
-python exercicio_final.py
+python calculadora_def.py
 ```
 
 5. Escolha a opção desejada no menu e siga as instruções na tela.
